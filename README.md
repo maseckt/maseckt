@@ -26,4 +26,4 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maseckt.maseckt&title=Просмотры" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maseckt.maseckt&title=Visitors" alt="visitor badge"/>
