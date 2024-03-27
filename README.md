@@ -1,4 +1,8 @@
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maseckt.maseckt" alt="visitor badge"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nyasha+Sans&size=38&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&random=false&width=600&height=150&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+maseckt!;%D0%9E%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8C%D1%81%D1%8F+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9+%D0%BD%D0%B8%D0%B6%D0%B5" alt="Typing SVG" /></a>
+
 ## Language  
 <div class="lang" align="center">
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
