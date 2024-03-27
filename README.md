@@ -15,6 +15,11 @@
 
 <br/>  
 
+## Programs
+
+<div align="center">
+<a href="https://www.jetbrains.com/idea" target="_blank">
+<img src=https://img.shields.io/badge/Intellij%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white alt=discord style="margin-bottom: 5px;" />
 
 ## Connect with me  
 
@@ -26,18 +31,3 @@
 <img src=https://img.shields.io/badge/DISCORD-%235865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 </div>  
-   
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
