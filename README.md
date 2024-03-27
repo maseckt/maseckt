@@ -19,7 +19,12 @@
 
 <div align="center">
 <a href="https://www.jetbrains.com/idea" target="_blank">
-<img src=https://img.shields.io/badge/Intellij%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Intellij%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white alt=idea style="margin-bottom: 5px;" />
+</a>
+<a href="[https://www.jetbrains.com/idea](https://code.visualstudio.com/)" target="_blank">
+<img src=https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white alt=vscode style="margin-bottom: 5px;" />
+
+</div> 
 
 ## Connect with me  
 
