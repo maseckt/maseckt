@@ -19,9 +19,6 @@
 
 <h1 align="center">Контакты</h1>
 <h1 align="center">
-  <a href="https://github.com/maseckt">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://discord.com/users/566218908936437770">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
