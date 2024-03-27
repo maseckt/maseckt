@@ -17,7 +17,9 @@
 
 ## Programs
 
-<div align="center">
+<a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank">
+<img src=https://img.shields.io/badge/WINDOWS%2010-%230078D6?style=for-the-badge&logo=windows10&logoColor=white alt=idea style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.jetbrains.com/idea" target="_blank">
 <img src=https://img.shields.io/badge/Intellij%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white alt=idea style="margin-bottom: 5px;" />
 </a>
@@ -26,6 +28,7 @@
 </a>
 <a href="https://notepad-plus-plus.org/" target="_blank">
 <img src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white&labelColor=black ">
+
 </div> 
 
 ## Connect with me  
