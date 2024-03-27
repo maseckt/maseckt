@@ -23,7 +23,7 @@
 </a>
 <a href="[https://www.jetbrains.com/idea](https://code.visualstudio.com/)" target="_blank">
 <img src=https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white alt=vscode style="margin-bottom: 5px;" />
-
+</a>
 </div> 
 
 ## Connect with me  
