@@ -21,9 +21,11 @@
 <a href="https://www.jetbrains.com/idea" target="_blank">
 <img src=https://img.shields.io/badge/Intellij%20Idea-black?style=for-the-badge&logo=intellijidea&logoColor=white alt=idea style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.jetbrains.com/idea](https://code.visualstudio.com/)" target="_blank">
+<a href="https://code.visualstudio.com/" target="_blank">
 <img src=https://img.shields.io/badge/VS%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white alt=vscode style="margin-bottom: 5px;" />
 </a>
+<a href="https://notepad-plus-plus.org/" target="_blank">
+<img src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepadplusplus&logoColor=white&labelColor=black ">
 </div> 
 
 ## Connect with me  
