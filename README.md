@@ -13,7 +13,7 @@
 
 <br/>  
 
-## Programs
+## My System && Programs
 
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank">
 <img src=https://img.shields.io/badge/WINDOWS%2010-%230078D6?style=for-the-badge&logo=windows10&logoColor=white alt=idea style="margin-bottom: 5px;" />
