@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nyasha+Sans&weight=600&size=38&duration=4000&pause=1000&color=5865F2&vCenter=true&random=false&width=600&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+maseckt!;Hi%2C+I'm+maseckt!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nyasha+Sans&weight=600&size=38&duration=4000&pause=1000&color=5865F2&center=true&vCenter=true&random=false&width=600&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+maseckt!;Hi%2C+I'm+maseckt!" alt="Typing SVG" /></a>
 </h1>
 
 <h1 align="center">Языки и тд</h1>
