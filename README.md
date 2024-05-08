@@ -11,7 +11,6 @@
 </p>
 
 <h1 align="center">Система и программы</h1>
-<a align="center">System and soft</a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,idea,vscode,obsidian,ps" />
