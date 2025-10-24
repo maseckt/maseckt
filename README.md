@@ -7,6 +7,6 @@
 <h2 align="center">Programming</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,java,py,cpp" />
+    <img src="https://skillicons.dev/icons?i=arch,java,py,cpp" />
   </a>
 </p>
